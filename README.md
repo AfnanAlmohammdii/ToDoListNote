@@ -21,7 +21,7 @@ frist project for me in Tuwaiq Acadamy.
 ## :camera_flash: Screenshots
 ---
 ### screenshot_1
-<img src="/results/screenshot_1.png" width="260">
+<img src="/photo/screenshot_1.png" width="260">
 
 ### screenshot_2
-<img src="/results/screenshot_2.png" width="260"># todolistNote
+<img src="/photo/screenshot_2.png" width="260"># todolistNote
