@@ -10,7 +10,7 @@
 
 ## :scroll: Description
 ---
-it is sample application a bout not , using by to do list , room data base. 
+This app for note using todo list with room and compound navigation using  MVVM, Navigation Components, Live Data, Room Database, and Kotlin components. and doing Splash Screen, Search, and Progress Bar. finally, this app is my first app at Tuwaiq Academy.
 
 
 ## :bulb: Motivation and Context
