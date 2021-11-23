@@ -15,8 +15,7 @@ This app for note using todo list with room and compound navigation using  MVVM,
 
 ## :bulb: Motivation and Context
 ---
-frist project for me in Tuwaiq Acadamy.
-
+This application was made for - Tuwaiq Academy 'Android Capstone 1 Assignment' - with One week deadline
 
 ## :camera_flash: Screenshots
 ---
